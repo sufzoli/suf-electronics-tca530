@@ -1,0 +1,4 @@
+Kipróbáltam a kapcsolást a rajz szerint bekötve nem müködött!
+A TCA 10,11-es pontokat fel kellet cserélnem,hogy jó irányba
+szabályozzon az áramkör. Másik jelenség a szabályzás belengése
+volt,ezt az R801 R802 4,7Mohm-ok 1Mohm-ra cserélése oldotta meg. A TCA530-nál gyorsabb és sokkal szélesebb a bentartási tartománya.
